@@ -1,5 +1,4 @@
-# Lung CT-based Classification for Covid-19-vs
- Non Covid-19
+# Lung CT-based Classification for Covid-19-vs Non Covid-19
 
 ## Introduction
 From 2019 to 2021 the corona virus known as covid-19 will have a wide range of effects on
